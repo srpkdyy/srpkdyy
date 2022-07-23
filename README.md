@@ -1,7 +1,11 @@
 # 明日できることは明日やる
-<a href="https://github.com/srpkdyy/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=srpkdyy&theme=vue&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/srpkdyy/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpkdyy&theme=vue&show_icons=true&count_private=true" />
-</a>
+
+## GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=srpkdyy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Readme Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srpkdyy&theme=onedark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srpkdyy&theme=onedark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
